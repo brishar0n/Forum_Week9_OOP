@@ -48,7 +48,7 @@
 
 Note: There is no need to include mutator or accessor methods or a constructor. (4 points)
 
-<img src="images/UML_Diagram.png" width=250>
+<img src="images/UML_Diagram.png" width=450>
 
 #
 
